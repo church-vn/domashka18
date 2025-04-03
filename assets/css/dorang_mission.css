@@ -11495,7 +11495,7 @@ a:hover {
   min-height: 600px;
   text-align: center;
   color: #fff;
-  background-image: url(../imgs/header_main.jpg);
+  background-image: url(../imgs/header_main.svg);
   background-size: cover;
   background-position: bottom;
   -webkit-transition: .2s;
